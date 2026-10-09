@@ -28,8 +28,8 @@ Term project for Data Science ME 594. Creates a ML model to predict who should b
 
 The data is **not** in git (too large). Download it from CDC BRFSS 2025 and place it so the paths look like:
 ```
-data/LLCP2025XPT/LLCP2025.XPT
-data/<your_file>.parquet
+../data/LLCP2025XPT/LLCP2025.XPT
+../data/<your_file>.parquet
 ```
 Source: CDC BRFSS 2025 (https://www.cdc.gov/brfss/annual_data/annual_data.htm).
 
