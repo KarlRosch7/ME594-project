@@ -1,0 +1,4 @@
+# Finish selecting columns to use
+# Fix target column to be 0/1
+# Recode variables so their categories make more sense, make our own codebook with only variables used in analysis
+# Save a final version of the DF for us to work with
